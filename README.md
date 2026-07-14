@@ -34,7 +34,7 @@ A minimalist macOS menu bar camera app. Lives in your menu bar — no Dock icon,
 ## Build from Source
 
 ```bash
-git clone https://github.com/yourusername/Peek.git
+git clone https://github.com/viperwraith47/Peek.git
 cd Peek
 chmod +x create-dmg.sh
 ./create-dmg.sh
