@@ -8,6 +8,8 @@ A minimalist macOS menu bar camera app. Lives in your menu bar — no Dock icon,
 
 ## Download
 
+  [Download DMG](https://github.com/viperwraith47/Peek/blob/main/build/Peek.dmg)
+ 
 1. Open Build folder and downloaded `.dmg` file
 2. Open the `.dmg`
 3. Drag **Peek** to your **Applications** folder
